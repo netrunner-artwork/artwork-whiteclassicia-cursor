@@ -1,2 +1,2 @@
-# netrunner-whiteclassicia-cursors
-White Classicia++ cursors for Netrunner Rolling.
+# netrunner-whiteclassicia-cursor
+White Classicia++ cursor for Netrunner Rolling.
